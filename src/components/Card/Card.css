@@ -1,0 +1,30 @@
+
+.card{
+    width: 100%;
+    min-height: 200px;
+    max-width: 300px;
+    background: #f9f9f9;
+    padding: 20px;
+}
+
+.card > img{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    padding: 20px;
+    filter: drop-shadow(0 5px 5px rgba(0,0,0,.2));
+}
+
+.card > div{
+    text-align: center;
+}
+
+.card > div > h3{
+    font-family: 'Kanit', sans-serif;
+    color: #101010;
+}
+
+.card > div > p{
+    font-size: 12px;
+    opacity: .5;
+}
