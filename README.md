@@ -1,5 +1,8 @@
 # Punk-shop
 
+To login enter your name and any random password.
+And to search write product name and then press Enter button.
+
 ### Login Page
 ![Login](https://github.com/adarshchavhan/punk-shop/assets/130956407/c3b4a4d3-e186-40fd-bded-8b53ddd587e3)
 
