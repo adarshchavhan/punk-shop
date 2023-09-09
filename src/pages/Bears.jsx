@@ -39,7 +39,7 @@ const Bears = () => {
   useEffect(() => {
     const handleInfinteScroll = () => {
       if (
-        Math.ceil(document.documentElement.scrollTop + window.innerHeight) >=
+        Math.ceil(document.documentElement.scrollTop + window.innerHeight + 70) >=
         document.documentElement.scrollHeight
       ) {
         setPage((prev) => prev + 1);
